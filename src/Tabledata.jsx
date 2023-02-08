@@ -22,7 +22,7 @@ const Tabledata = (props) => {
     </tr>
   </thead>
   <tbody>
-{/* {props.dataarr.map((item,index)=>{
+{props.dataarr.map((item,index)=>{
   return(
     <tr key={index}>
     <th scope="row">{item.studid}</th>
@@ -36,7 +36,7 @@ const Tabledata = (props) => {
 }
 
 
-)} */}
+)}
 
    
    
